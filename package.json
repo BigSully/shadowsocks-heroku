@@ -7,6 +7,9 @@
     "minimist": "^1.2.0",
     "ws": "^6.1.4"
   },
+  "engines": {
+    "node": "8.x"
+  },
   "scripts": {
     "start": "node server.js -b 0.0.0.0"
   }
